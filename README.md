@@ -2,6 +2,19 @@
 
 This repository is used for a beginner Git workshop.
 
+## Student Information
+
+**Profile:**
+- Name: 
+- Favorite drink: coffee
+- City: 
+
+**Hobby:**
+- Main hobby: 
+
+**Weekend Plan:**
+- Add your weekend plan here.
+
 ## Files in this repository
 - `README.md`
 - `profile.txt`
