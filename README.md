@@ -14,6 +14,9 @@ This repository is used for a beginner Git workshop.
 
 **Weekend Plan:**
 - Add your weekend plan here.
+## Student information
+Name: Naphat
+Group: YOUR GROUP
 
 ## Files in this repository
 - `README.md`
